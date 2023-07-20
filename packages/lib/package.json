@@ -84,7 +84,7 @@
     "uslug": "git+https://github.com/laurent22/uslug.git#emoji-support",
     "uuid": "^3.0.1",
     "valid-url": "^1.0.9",
-    "word-wrap": "^1.2.3",
+    "word-wrap": "^1.2.4",
     "xml2js": "^0.4.19"
   },
   "gitHead": "eb4b0e64eab40a51b0895d3a40a9d8c3cb7b1b14"
