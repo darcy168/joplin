@@ -61,7 +61,7 @@
     "sqlite3": "^5.0.2",
     "string-padding": "^1.0.2",
     "strip-ansi": "^4.0.0",
-    "terminal-kit": "^1.30.0",
+    "terminal-kit": "^1.49.4",
     "tkwidgets": "^0.5.26",
     "url-parse": "^1.4.7",
     "word-wrap": "^1.2.3",
