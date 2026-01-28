@@ -15,7 +15,7 @@
     "postinstall": "jetify && npm run build"
   },
   "dependencies": {
-    "@joplin/lib": "~2.4",
+    "@joplin/lib": "~2.14.1",
     "@joplin/renderer": "~2.4",
     "@react-native-community/clipboard": "^1.5.0",
     "@react-native-community/datetimepicker": "^3.0.3",
@@ -34,7 +34,7 @@
     "prop-types": "^15.6.0",
     "punycode": "^2.1.1",
     "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react-native": "0.69.12",
     "react-native-action-button": "^2.8.5",
     "react-native-camera": "^3.40.0",
     "react-native-dialogbox": "^0.6.10",
